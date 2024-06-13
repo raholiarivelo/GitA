@@ -1,0 +1,2 @@
+# GitA
+Test GitHub Action
